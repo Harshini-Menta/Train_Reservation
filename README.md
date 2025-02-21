@@ -34,39 +34,21 @@
 
 ## Sample Output
 ```text 
-============ Railway Reservation - RailEase ============
-
-1. Book ticket
-2. Cancel ticket
-3. Search passenger
-4. Reservation chart
-5. Display unbooked tickets
+===== Railway Reservation--RailEase =====
+1. Book Ticket
+2. Cancel Ticket
+3. Search Passenger
+4. View Reservation Chart
+5. Display Available Tickets
 6. Exit
-Please enter your choice:
-> 1
+Enter your choice: 1
 
-Please enter the class of ticket:
+--- Book Ticket ---
 1. AC | 2. First Class | 3. Sleeper
-> 2
-
-Please enter no. of tickets:
-> 2
-
-Please enter your name:
-> Harshini
-
-Please enter your age:
-> 23
-
-Please enter your phone number:
-> 9876543210
-
-Available seats in First Class:
-1 2 3 4 5 6 7 8 9 10 ... 125
-
-Choose your seat number from available options:
-> 5
-
-Ticket successfully booked. Your seat number: 5
-
-
+Enter ticket class: 1
+Enter number of tickets: 2
+Enter Name: John Doe
+Enter Age: 30
+Enter Phone Number: 9876543210
+Ticket booked successfully!
+Total Amount: ₹3000

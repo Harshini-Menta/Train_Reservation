@@ -33,7 +33,7 @@ public class TrainReservation {
     public void doMenu() throws Exception {
         int choice;
         do {
-            System.out.println("\n===== Railway Reservation =====");
+            System.out.println("\n===== Railway Reservation--RailEase =====");
             System.out.println("1. Book Ticket");
             System.out.println("2. Cancel Ticket");
             System.out.println("3. Search Passenger");

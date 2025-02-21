@@ -34,9 +34,7 @@
 
 ## Sample Output
 ```text 
-#########################################################
-********* Railway Reservation - RailEase ***********
-#########################################################
+============ Railway Reservation - RailEase ============
 
 1. Book ticket
 2. Cancel ticket
